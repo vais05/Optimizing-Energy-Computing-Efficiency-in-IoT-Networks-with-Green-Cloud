@@ -20,4 +20,4 @@ This project focuses on enhancing energy efficiency in IoT networks by combining
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/vais05/Optimizing-Energy-Computing-Efficiency-in-IoT-Networks-with-Green-Cloud
