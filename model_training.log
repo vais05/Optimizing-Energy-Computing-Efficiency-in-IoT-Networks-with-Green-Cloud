@@ -1,0 +1,9 @@
+INFO:root:Data loaded and memory optimized.
+INFO:root:None
+INFO:root:Feature engineering completed.
+INFO:root:Available columns in the dataset: Index(['cpu_usage', 'memory_usage', 'network_traffic', 'power_consumption',
+       'num_executed_instructions', 'execution_time', 'energy_efficiency',
+       'hour', 'day_of_week', 'vm_id', 'task_type', 'task_priority',
+       'task_status'],
+      dtype='object')
+ERROR:root:Encoding error during training: 'charmap' codec can't encode characters in position 19-23: character maps to <undefined>
